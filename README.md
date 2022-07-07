@@ -12,7 +12,7 @@
 - Added form and input for amount of paragraphs
 - Function for submiting form and display exact amount of paragraphs
 
-# This project is Live <a href="">Here</a> ! Enjoy .
+# This project is Live <a href="https://mz-lorem-ipsum.netlify.app">Here</a> ! Enjoy .
 
 - Have a nice day 🌞
 - 📫 Find me on <a href="https://marcin-zygan.com">marcin-zygan.com</a>
